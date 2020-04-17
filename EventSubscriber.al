@@ -5,6 +5,8 @@ codeunit 50112 MySubscriberCodeunitMx
 
     end;
 
+    /*Git1*/
+
     /*
     [EventSubscriber(ObjectType::Codeunit, Codeunit::"Sales-Post", 'OnBeforePostCommitSalesDoc', '', true, true)]
     local procedure MyProcedureInvA(SalesHeader: Record "Sales Header"
